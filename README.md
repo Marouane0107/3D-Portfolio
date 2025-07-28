@@ -8,7 +8,9 @@
 
 ## 📖 Overview
 
-**3D-Portfolio** is a modern, interactive portfolio website built with React and Vite, featuring stunning 3D and animated UI elements powered by Framer Motion. Designed for software engineers and creatives, this portfolio showcases projects, skills, and contact information in a visually engaging and responsive format.
+**3D-Portfolio** is a modern, interactive portfolio website built with React and Vite, featuring stunning 3D and animated UI elements powered by Framer Motion. Designed for software engineers and creative professionals, it provides a visually engaging way to showcase skills, projects, and contact information.
+
+**🌐 Live Demo:** [https://3-d-portfolio-psi-wine.vercel.app/](https://3-d-portfolio-psi-wine.vercel.app/)
 
 Key goals:
 - Lightning-fast development and HMR with Vite  
